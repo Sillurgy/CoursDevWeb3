@@ -1,0 +1,19 @@
+#ship {
+    position: absolute;
+    width: 8%;
+}
+.blabla{
+    text-align: center;
+    color: gray;
+}
+.style {
+    width: 100%;
+    padding: 25px;
+    background-color: rgb(151, 54, 54);
+    color: white;
+    font-size: 25px;
+  }
+
+#madiv{
+    color: rgb(209, 209, 209);
+}
